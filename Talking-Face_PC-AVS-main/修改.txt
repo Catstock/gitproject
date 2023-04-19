@@ -1,0 +1,7 @@
+inference.py中
+* img2vedio的命令：
+	将‘/’改为'\\'
+	将'q:v 0'改为'q:v 4'   可以在2-31之间，代表图像质量 *可以不改
+
+* processed_file_savepath前添加E:\code\Talking-Face_PC-AVS-main\Talking-Face_PC-AVS-main
+* 将'\'' 换为' '
