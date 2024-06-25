@@ -1,0 +1,19 @@
+Error in close_clicked: close_clicked() takes 1 positional argument but 2 were given
+Error in close_clicked: close_clicked() takes 1 positional argument but 2 were given
+Error in closeEvent: 'PreCameraWindow' object has no attribute 'main_window'
+Error in closeEvent: 'NoneType' object has no attribute 'show'
+Error in close_clicked: close_clicked() takes 1 positional argument but 2 were given
+Error in close_clicked: close_clicked() takes 1 positional argument but 2 were given
+Error in close_clicked: 'NoneType' object has no attribute 'show'
+Error in close_clicked: close_clicked() takes 1 positional argument but 2 were given
+Error in closeEvent: 'NoneType' object has no attribute 'show'
+Error in closeEvent: 'NoneType' object has no attribute 'show'
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in alterPicBtnClicked: alterPicBtnClicked() takes 1 positional argument but 2 were given
+Error in capture_image: capture_image() takes 1 positional argument but 2 were given
+Error in save_image: save_image() takes 1 positional argument but 2 were given
