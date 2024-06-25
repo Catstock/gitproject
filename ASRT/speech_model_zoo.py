@@ -187,7 +187,9 @@ class SpeechModel251BN(BaseModel):
         in_len[0] = self.output_shape[0]
 
         x_in = np.zeros((batch_size,) + self.input_shape, dtype=np.float)
-
+        print(self.output_shape[0])
+        print(self.input_shape)
+        print(data_input.shape)
         for i in range(batch_size):
             x_in[i,0:len(data_input)] = data_input
 
